@@ -1,0 +1,10 @@
+.header {
+    background-color: rgba(255, 251, 1, 0.432);
+    
+      }
+.Background {
+        background: url(sikat.jpg) right bottom no-repeat, url(sikat.jpg) left top repeat;
+      }
+.Background1{
+  background: Url(15.jpg) right bottom no-repeat, url(15.jpg)left top repeat;
+}
